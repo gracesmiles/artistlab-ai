@@ -24,6 +24,7 @@ music/release characteristics can help predict future performance.
 - LangGraph / MCP
 - Power BI
 
+```text
 artistlab/
 ├── README.md
 ├── data/
@@ -32,10 +33,11 @@ artistlab/
 ├── ml/
 ├── infrastructure/
 └── .gitignore
+```
 
 TODO
-[ ] Find and ingest music data
-[ ] Build PostgreSQL data model
-[ ] Explore artist/song trajectories
-[ ] Build baseline prediction model
-[ ] Build cloud-deployed AI analytics app
+- [ ] Find and ingest music data
+- [ ] Build PostgreSQL data model
+- [ ] Explore artist/song trajectories
+- [ ] Build baseline prediction model
+- [ ] Build cloud-deployed AI analytics app
