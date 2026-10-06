@@ -8,7 +8,7 @@ AI-powered music analytics and forecasting platform.
 ## Goal
 
 Explore artist trajectories and investigate whether observable
-music/release characteristics can help predict future performance.
+music/release characteristics can help predict future performance. Can we predict whether a newly released song will outperform its artist's historical baseline using information available around the time of release?
 
 ## Planned stack
 
